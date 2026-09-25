@@ -1,74 +1,130 @@
-# Hello 👋
+# 👋 Hello, I'm MuZaN
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/hellogif.gif">
+
+<img width="700" alt="Hello GIF" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/hellogif.gif">
+
+### 🛡️ Ethical Hacker • Bug Hunter • OSINT & Recon Specialist
+
+*Exploring security, building skills, and learning something new every day.*
+
 </div>
 
-</br>
-</br>
-</br>
+---
 
+## 👨‍💻 About Me
 
-# About ME 💬 :
+<img width="400" alt="Security GIF" align="right" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/gif2.gif">
 
-### - I'm 19 years  old Bug Hunter Web & Osint Specialist from Morocco.
+* 🎂 **19 years old**
+* 🇲🇦 **Morocco**
+* 🛡️ **Ethical Hacker**
+* 🐛 **Bug Hunter**
+* 🌐 **Web Application Security**
+* 🔎 **OSINT Specialist**
+* 🛰️ **Recon Specialist**
+* 💻 Passionate about cybersecurity and programming
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/gif2.gif">
+<br clear="right"/>
 
-### - Learning :
-- ✨ Python , c language 
-- ✨ Web application security , osint specialist
+---
 
-</br>
-</br>
-</br>
+## 📚 What I'm Learning
 
+```text
+🐍 Python
+⚙️ C
+🌐 Web Application Security
+🔎 OSINT
+🛰️ Reconnaissance
+```
 
+I'm continuously improving my understanding of cybersecurity, programming, web technologies, and information gathering.
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-</br>
-</br>
-</br>
-<p align="center">
+---
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-</br>
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/C.png" alt="C language" width="240" hight="50">
-</br>
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/linux.png" alt="Linux" width="100" hight="50">
-</p>
-</br>
-</br>
-</br>
+## 🛠️ Languages & Tools
 
+<div align="center">
 
+### Programming Languages
 
-# Contact Me :
+<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/python.png" alt="Python" width="120">
 
-<p>
- </br>
+<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/C.png" alt="C" width="240">
 
+<br>
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+### Web & Scripting
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+
+<br>
+
+### Operating Systems
+
+<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/linux.png" alt="Linux" width="100">
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+|    🔐 Cybersecurity    |    🔎 Intelligence    | 💻 Development |
+| :--------------------: | :-------------------: | :------------: |
+|      Web Security      |         OSINT         |     Python     |
+|       Bug Hunting      |         Recon         |        C       |
+| Vulnerability Research | Information Gathering |   JavaScript   |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Muzanespisito">
+<img src="https://github-readme-stats.vercel.app/api?username=Muzanespisito&show_icons=true&theme=radical&hide_border=true" alt="MuZaN's GitHub Stats">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Muzanespisito">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzanespisito&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</a>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+If you'd like to talk about cybersecurity, programming, research, or just hang out, feel free to reach out. 😉
+
+<br><br>
 
 <a href="mailto:Muzan.research@outlook.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/outlook.png" />
-</a>
-<a href="">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
+<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/outlook.png" alt="Outlook" width="130">
 </a>
 
+</div>
 
+---
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+<div align="center">
 
-*************
+### 🛡️ Learn • Research • Build • Secure
+
+*"Keep learning. Keep exploring. Keep improving."*
+
+</div>
+
+---
+
+⭐ **Thanks for visiting my profile!**
