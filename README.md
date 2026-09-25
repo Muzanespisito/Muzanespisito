@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/gif2.gif]">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/hellogif.gif">
 </div>
 
 </br>
