@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWlkOTJoMGw0emFtMnQ3b292YjR6Z2draTR6MjJlMzB3emg5dGt0MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VwBCaRz2NNG7UbQuUA/giphy.gif)">
 </div>
 
 </br>
@@ -11,19 +11,13 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 19 years  old Bug Hunter Web & Osint Specialist from Morocco.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Python , c language 
+- ✨ Web application security , osint specialist
 
 </br>
 </br>
