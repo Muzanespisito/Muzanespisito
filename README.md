@@ -18,12 +18,9 @@
 
 * 🎂 **19 years old**
 * 🇲🇦 **Morocco**
-* 🛡️ **Ethical Hacker**
-* 🐛 **Bug Hunter**
-* 🌐 **Web Application Security**
+* 🛡️ **Penetration Tester on web**
 * 🔎 **OSINT Specialist**
-* 🛰️ **Recon Specialist**
-* 💻 Passionate about cybersecurity and programming
+* 💻 Passionate about cybersecurity and open source hunting
 
 <br clear="right"/>
 
@@ -39,7 +36,7 @@
 🛰️ Reconnaissance
 ```
 
-I'm continuously improving my understanding of cybersecurity, programming, web technologies, and information gathering.
+I'm continuously improving my understanding of cybersecurity, web technologies, and information gathering.
 
 ---
 
