@@ -49,9 +49,9 @@ I'm continuously improving my understanding of cybersecurity, programming, web t
 
 ### Programming Languages
 
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/python.png" alt="Python" width="120">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
 
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/C.png" alt="C" width="240">
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
 
 <br>
 
@@ -63,7 +63,7 @@ I'm continuously improving my understanding of cybersecurity, programming, web t
 
 ### Operating Systems
 
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/linux.png" alt="Linux" width="100">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
 
 </div>
 
@@ -110,7 +110,7 @@ If you'd like to talk about cybersecurity, programming, research, or just hang o
 <br><br>
 
 <a href="mailto:Muzan.research@outlook.com">
-<img src="https://github.com/Muzanespisito/Muzanespisito/blob/main/assets/icons/outlook.png" alt="Outlook" width="130">
+<img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Outlook">
 </a>
 
 </div>
