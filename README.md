@@ -89,16 +89,15 @@ I'm continuously improving my understanding of cybersecurity, programming, web t
 <div align="center">
 
 <a href="https://github.com/Muzanespisito">
-<img src="https://github-readme-stats.vercel.app/api?username=Muzanespisito&show_icons=true&theme=radical&hide_border=true" alt="MuZaN's GitHub Stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Muzanespisito&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="MuZaN's GitHub Stats" />
 </a>
 
-<br><br>
-
 <a href="https://github.com/Muzanespisito">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzanespisito&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzanespisito&layout=compact&theme=radical&hide_border=true" alt="MuZaN's Top Languages" />
 </a>
 
 </div>
+
 
 ---
 
