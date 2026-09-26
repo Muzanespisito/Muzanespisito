@@ -73,13 +73,14 @@ I'm continuously improving my understanding of cybersecurity, programming, web t
 
 <div align="center">
 
-|    🔐 Cybersecurity    |    🔎 Intelligence    | 💻 Development |
-| :--------------------: | :-------------------: | :------------: |
-|      Web Security      |         OSINT         |     Python     |
-|       Bug Hunting      |         Recon         |        C       |
-| Vulnerability Research | Information Gathering |   JavaScript   |
+|    🔐 Cybersecurity    | 🧠 Cybersecurity Intelligence | 🛠️ Dev Tools |
+| :--------------------: | :---------------------------: | :-----------: |
+|      Web Security      |             OSINT             |     Python    |
+|       Bug Hunting      |             Recon             |       C       |
+| Vulnerability Research |     Information Gathering     |               |
 
 </div>
+
 
 ---
 
